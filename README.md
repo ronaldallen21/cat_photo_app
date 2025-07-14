@@ -1,5 +1,3 @@
-# cat_photo_app
-
 # HTML Code Repository
 
 This repository contains my personal collection of HTML code snippets, projects, and experiments.
